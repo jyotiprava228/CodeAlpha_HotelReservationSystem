@@ -1,4 +1,4 @@
-# CodeAlpha_HotelReservationSystem
+# HotelReservationSystem
 
 ## Project Description
 The Hotel Reservation System is a Java-based application developed to manage hotel room reservations.
